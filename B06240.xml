@@ -1,0 +1,274 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>True love unvail'd, or, The coy lady over-come at last. This lively gallant having time and leisure, did court the lady to injoy his pleasure; but she seemed coy, and would not moved be, unto his loving suit for to agree: till at the length, love pleading without fee, she did resign up all immediately. To a rare new tune, or, The French minnim. With allowance.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1670-1696?</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06240</idno>
+            <idno type="STC">Wing T2738</idno>
+            <idno type="STC">Interim Tract Supplement Guide EBB65H[111]</idno>
+            <idno type="EEBO-CITATION">99887317</idno>
+            <idno type="PROQUEST">ocm99887317</idno>
+            <idno type="VID">182028</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06240)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 182028)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A2:4[111])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>True love unvail'd, or, The coy lady over-come at last. This lively gallant having time and leisure, did court the lady to injoy his pleasure; but she seemed coy, and would not moved be, unto his loving suit for to agree: till at the length, love pleading without fee, she did resign up all immediately. To a rare new tune, or, The French minnim. With allowance.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts).  </extent>
+               <publicationStmt>
+                  <publisher>Printed for P[hilip]. Brooksby at the Golden-Ball, neer the Hospital-gate, in West-smith-field.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[between 1670-1696]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse: "Dawn in a valley where nymphs are a playing ..."</note>
+                  <note>Date, place of publication and publisher's name from Wing.</note>
+                  <note>Reproduction of original in the Harvard University, Houghton Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Broadsides --  England --  London --  Early works to 1800.</term>
+               <term>Love poetry, English --  England --  Early works to 1800.</term>
+               <term>Ballads --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2008-04</date>
+            <label>Emma (Leeson) Huber</label>Sampled and proofread</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2010-02</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:182028:1"/>
+            <!-- PDF PAGE 9 -->
+            <head>
+               <hi>True Love Vnvail'd,</hi> Or, <hi>The Coy Lady Over-come at laſt.</hi>
+            </head>
+            <argument>
+               <lg>
+                  <l>
+                     <hi>This lively Gallant having time and leiſure,</hi>
+                  </l>
+                  <l>
+                     <hi>Did Court the Lady to Injoy his pleaſure;</hi>
+                  </l>
+                  <l>
+                     <hi>But ſhe ſeemed coy, and would not moved be,</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Unto his loving ſuit for to agree:</hi>
+                  </l>
+                  <l>
+                     <hi>Till at the length, Love pleading without fee,</hi>
+                  </l>
+                  <l>
+                     <hi>She did reſign up all immediately.</hi>
+                  </l>
+               </lg>
+            </argument>
+            <opener>To a Rare New Tune, or, <hi>The French Minnim.</hi>
+            </opener>
+            <p>With Allowance.</p>
+            <p>
+               <figure/>
+            </p>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>DOwn in a Valley where Nymphs are a playing,</l>
+               <l>and ſhe Young Shepherds are tending their Sheep,</l>
+               <l>Carefully keeping their Flocks without Straying,</l>
+               <l>after Dream in a ſlumbring ſleep:</l>
+               <l>I ſpy'd two Lovers juſt at their firſt meeting,</l>
+               <l>who ſeemed fearful Leaſt they ſhould be ſeen,</l>
+               <l>Kindly Imbracing, and lovely greeting,</l>
+               <l>as hand, in hand, they paſt over the green.</l>
+            </lg>
+            <lg>
+               <l>A proper young Stripling the Youth he was truely,</l>
+               <l>clad in laich Clothing moſt ſeemly to ſee,</l>
+               <l>Though he was troubled with paſſions unruly,</l>
+               <l>Ruddy Complexion'd, and Comely was he:</l>
+               <l>Of fine Carriage, and loving Behaviour,</l>
+               <l>ſcarce ſuch another thee was to be found;</l>
+               <l>One that in Love was not ſubject to waver,</l>
+               <l>though the blind Archer had given him a Wound.</l>
+            </lg>
+            <lg>
+               <l>The Maid ſhe was bonny, of beauty moſt bright;</l>
+               <l>and like to <hi>Diana</hi> was cloathed in green;</l>
+               <l>He needs muſt be frozen that could not delight,</l>
+               <l>In ſuch a Girls Company for to be ſeen:</l>
+               <l>With Amorous Glances ſhe lookt on her Lover,</l>
+               <l>yet ſhe did modeſtly bluſh the ſame time,</l>
+               <l>Which made him more willing his mind to diſcover,</l>
+               <l>fearing his ſilence was counted a crime.</l>
+            </lg>
+            <lg>
+               <l>Now my own Deareſt, ſince 'tis our good fortune,</l>
+               <l>here for to meet at this time, in this place,</l>
+               <l>Let me no longer thy Favour importune,</l>
+               <l>but let us freely and kindly imbrace:</l>
+               <l>
+                  <hi>Cupid</hi> will ſmile, and Dame <hi>Venus</hi> look chearful,</l>
+               <l>for to behold us in love to agree,</l>
+               <l>Therefore my Honey thou need'ſt not be fearful,</l>
+               <l>but no this Hillock come ſit down by me.</l>
+            </lg>
+            <lg>
+               <l>Oh! quoth the Maiden, and bluſht at the motion,</l>
+               <l>there may be danger in coming too nigh,</l>
+               <l>Love though 'tis ſweet, may be termed a potion,</l>
+               <l>bitter inth' end, though it's fair to the eye;</l>
+               <l>Therefore excuſe me I fear to be taken,</l>
+               <l>leaſt at the laſt I be left in the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>urch,</l>
+               <l>For many a Girl hath been before forſaken,</l>
+               <l>being juſt ready to go to the Church.</l>
+            </lg>
+            <div n="2" type="part">
+               <pb facs="tcp:182028:1"/>
+               <!-- PDF PAGE 9 -->
+               <head>The ſecond Part,</head>
+               <opener>To the ſame Tune.</opener>
+               <lg>
+                  <l>Be not ſo fearful my dear but ſit by me,</l>
+                  <l>for why unto thee I vow and proteſt,</l>
+                  <l>I cannot live if thou ſeem to deny me,</l>
+                  <l>ſince of all others I fancy thee beſt:</l>
+                  <l>Make no delay, for in Love it is adious,</l>
+                  <l>at thy comman'd I will ever remain,</l>
+                  <l>Seeing the time, and the place are comodious,</l>
+                  <l>who from ſuch pleaſant delight can refrain?</l>
+               </lg>
+               <lg>
+                  <l>Thy pritty body ſo neat and ſo ſlender,</l>
+                  <l>hath Captivated my heart and my eye,</l>
+                  <l>That love, for love, you are bound for to render,</l>
+                  <l>take pitty on me or elſe I ſhall dye:</l>
+                  <l>Do not delight to be cruel and froward,</l>
+                  <l>for by this kiſs I will ever be thine;</l>
+                  <l>He that fair Lady wins, muſt be no Coward,</l>
+                  <l>make no demur but agree to be mine.</l>
+               </lg>
+               <lg>
+                  <l>O (quoth the Virgin) how I am devided,</l>
+                  <l>being o'recome by your perſon and charms;</l>
+                  <l>Honour muſt yield, when by love it is guided,</l>
+                  <l>now could I freely flye into thy arms:</l>
+                  <l>For to be real, my love and affection,</l>
+                  <l>hath made me onely at thy own command:</l>
+                  <l>Cupid hath brought my heart into ſubjection,</l>
+                  <l>I can no longer your Batteries withſtand.</l>
+               </lg>
+               <lg>
+                  <l>Then (quoth her Lover) ſince we are concluded,</l>
+                  <l>let us reſolve to make uſe of our time,</l>
+                  <l>We will no longer by fears be deluded</l>
+                  <l>but take delight, whilſt our love is in prime:</l>
+                  <l>For when old age doth come, feeble and crazy,</l>
+                  <l>then to our pleaſures we muſt bid adieu;</l>
+                  <l>Therefore in youth let us never be Lazy,</l>
+                  <l>for the time paſt we can never renew.</l>
+               </lg>
+               <lg>
+                  <l>Into a pleaſant Grove then they retired,</l>
+                  <l>where none could ſee them their loves to moleſt,</l>
+                  <l>She being free to do what he deſired,</l>
+                  <l>under a Mirtle they ſat down to reſt:</l>
+                  <l>Where they did paſs away time at their pleaſure,</l>
+                  <l>yeilding each other, true joy and content;</l>
+                  <l>And afterwards they walk home at their leiſure,</l>
+                  <l>having no cauſe of their time to repent.</l>
+               </lg>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for <hi>P. Brooksby,</hi> at the Golden-Ball, neer the Hoſ<g ref="char:EOLhyphen"/>pital-gate, in Weſt-ſmith-field.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
